@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppSearch</string>
+    <string name="app_title">Lenguajes de programación</string>
+    <string name="btn_javascript">JS</string>
+    <string name="btn_csharp">C#</string>
+    <string name="btn_nodejs">Nodejs</string>
+    <string name="btn_php">PHP</string>
+    <string name="btn_python">Python</string>
+    <string name="btn_java">Java</string>
+</resources>
